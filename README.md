@@ -10,4 +10,10 @@ Using html & CSS for importing the data:
 ![image](https://user-images.githubusercontent.com/95869164/210382815-1c3d0980-5222-4818-8201-4ea85226ffcf.png)
 
 
+Creation the data in format CSV:
+![image](https://user-images.githubusercontent.com/95869164/210383800-825fb296-b51f-4cf1-b573-95bf24b24f8d.png)
+
+
+
+
 
